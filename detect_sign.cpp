@@ -1,3 +1,4 @@
+// Bag in detect_light successfully fixed 
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <vector>
